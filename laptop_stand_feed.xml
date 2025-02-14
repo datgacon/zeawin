@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+  <channel>
+    <title>Zeawin - Etsy Shop</title>
+    <link>https://www.etsy.com/shop/Zeawin</link>
+    <description>This is a product feed for Zeawin's Etsy shop, featuring high-quality laptop stands and accessories.</description>
+    <item>
+      <g:id>241</g:id>
+      <g:title>Zeawin Sturdy & Portable Laptop Stand – Foldable Riser for Desk, Compatible with 10" to 15" Laptops, MacBook and Notebooks</g:title>
+      <g:description>
+	 Elevate your workspace with the Zeawin Laptop Stand, designed for comfort and productivity. Crafted from sustainable leather and recycled pressed cardboard, this foldable stand features an innovative 'M' shape for rock-solid stability and ergonomic viewing. It raises your laptop screen to eye level, reducing neck strain and improving airflow for better cooling. Lightweight and portable, it’s perfect for on-the-go professionals. Compatible with 10'' to 15'' laptops and MacBooks.
+      </g:description>
+      <g:link>https://www.etsy.com/listing/241</g:link>
+      <g:image_link>https://i.etsystatic.com/28551128/r/il/b01901/5526906862/il_fullxfull.5526906862_7epm.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in stock</g:availability>
+      <g:price>42.00 USD</g:price>
+      <g:brand>Zeawin</g:brand>
+      <g:mpn>LSTAND-001</g:mpn>
+      <g:google_product_category>Electronics > Computers > Laptop Accessories > Laptop Stands & Risers</g:google_product_category>
+      <g:product_type>laptop_stand</g:product_type>
+      <g:material>pressed cardboard, genuine leather</g:material>
+      <g:color>Tan, Brown, Black</g:color>
+      <g:shipping>
+        <g:country>US</g:country>
+        <g:service>Standard</g:service>
+        <g:price>0.00 USD</g:price>
+      </g:shipping>
+    </item>
+  </channel>
+</rss>
