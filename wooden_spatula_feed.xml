@@ -21,8 +21,8 @@
         <g:service>Standard</g:service>
         <g:price>0.00 USD</g:price>
       </g:shipping>
-      <g:product_type>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Tools &amp; Utensils &gt; Cooking Utensils &gt; Spatulas</g:product_type>
-      <g:google_product_category>Kitchen Utensils Set</g:google_product_category>
+      <g:product_type></g:product_type>
+      <g:google_product_category></g:google_product_category>
       <g:identifier_exists>FALSE</g:identifier_exists>
       <g:material>wood</g:material>
       <g:feature>Non-Toxic &amp; Eco-Friendly</g:feature>
