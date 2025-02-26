@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+  <channel>
+    <title>Zeawin Product Landing Page</title>
+    <link>https://shop.zeawin.com/spatula</link>
+    <description>This is a product feed for Zeawin's Etsy shop.</description>
+    <item>
+      <g:id>TNGS200</g:id>
+      <g:title>Zeawin Wooden Salad and Toaster Tongs – Crafted from durable beechwood with a sturdy stainless steel spring, these tongs make serving and handling food effortless. Designed for a secure grip, they're perfect for tossing salads, grabbing toast, or serving your favorite dishes with ease and style.</g:title>
+      <g:description>These beautifully handcrafted wooden toaster tongs, designed for effortless serving and cooking. Made from sustainable beechwood with an elegant design and smooth finish, each pair is coated with non-toxic mineral oil for a safe and natural touch. The sturdy stainless steel spring provides a strong grip, making it perfect for grabbing toast, tossing salads, and serving food with ease. Whether you're using them with a wooden salad bowl or as wooden food tongs for cooking, these tongs are a must-have for any kitchen!
+      </g:description>
+      <g:link>https://shop.zeawin.com/wooden-tongs</g:link>
+      <g:image_link>https://i.etsystatic.com/28551128/r/il/acd4c8/4766864630/il_794xN.4766864630_k8g8.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>26.95 USD</g:price>
+      <g:brand>Zeawin</g:brand>
+      <g:mpn>WTNGS-001</g:mpn>
+      <g:shipping>
+        <g:country>US</g:country>
+        <g:service>Standard</g:service>
+        <g:price>0.00 USD</g:price>
+      </g:shipping>
+      <g:product_type></g:product_type>
+      <g:google_product_category></g:google_product_category>
+      <g:identifier_exists>FALSE</g:identifier_exists>
+      <g:material>wood</g:material>
+    </item>
+  </channel>
+</rss>
+
